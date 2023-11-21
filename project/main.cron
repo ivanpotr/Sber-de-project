@@ -1,0 +1,1 @@
+0 2 * * * /usr/bin/python /home/deaian/ptrc/project/main.py 1>> /home/deaian/ptrc/project/main.log  2>> /home/deaian/ptrc/project/errors.log 
